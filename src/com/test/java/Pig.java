@@ -1,4 +1,4 @@
-package com.test.groovy.com.test.java;
+package com.test.java;
 
 /**
  * Created by wudeng on 17/6/4.

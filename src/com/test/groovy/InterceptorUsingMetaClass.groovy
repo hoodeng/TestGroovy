@@ -1,6 +1,7 @@
 package com.test.groovy
 
-import com.test.groovy.com.test.java.Pig
+import com.test.java.Pig
+
 
 /**
  * Created by wudeng on 17/6/4.
